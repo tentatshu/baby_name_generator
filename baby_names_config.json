@@ -1,0 +1,1 @@
+{"rnn_size": 64, "name": "baby_names", "word_level": false, "dim_embeddings": 300, "rnn_layers": 2, "max_length": 40, "max_words": 10000, "rnn_bidirectional": true, "single_text": false}
