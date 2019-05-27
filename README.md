@@ -10,4 +10,5 @@
 
 
 ## Source Data
-List of baby names derived from all names registered with the US Social Security in 2018: https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
+- List of baby names derived from all names registered with the US Social Security in 2018: https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
+- Textgenrnn Github Project: https://github.com/minimaxir/textgenrnn
